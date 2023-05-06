@@ -1,1 +1,1 @@
-# argocd-test
+# ArgoCD + Minikube + Ngrok
